@@ -1,9 +1,9 @@
 # C-Plan
 Project Planning Tool
 
-Milestones:
+**Milestones:**
 
-Aug 01.08.2019
+<<Aug 01.08.2019>>
 
 -Projekt aufsetzen
 -Startseite vor und nach Login (HTML, SCSS) 
