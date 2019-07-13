@@ -1,0 +1,47 @@
+{
+  "name": "Basic-Web-Development-Setup-2019",
+  "version": "1.0.0",
+  "description": "Gulp Website Template. Optional Gulp 3 oder 4, SASS oder SCSS. RSYNC funktion für Netlify oder GithubPages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domi236/C-Plan"
+  },
+  "keywords": [
+    "4",
+    "sass",
+    "scss",
+    "gulp",
+    "4",
+    "boilerplate",
+    "stater"
+  ],
+  "author": "Dominik Fila",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Domi236/C-Plan"
+  },
+  "homepage": "https://github.com/Domi236/C-Plan",
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-notify": "^3.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-rsync": "0.0.8",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-util": "^3.0.8"
+  },
+  "dependencies": {}
+}
