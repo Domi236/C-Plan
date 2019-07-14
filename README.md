@@ -4,9 +4,9 @@ Project Planning Tool
 
 Projekt local aufsetzten: 
 
-git init "initialize repo "
-git clone "repo"
-npm install "install packages"
+git init "initialize repo " <br/>
+git clone "repo" <br/>
+npm install "install packages" <br/>
 
 Default-gulp-Task for web development:
 
