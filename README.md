@@ -2,7 +2,7 @@
 Project Planning Tool
 
 
-Projekt local aufsetzten: <br/>
+**Projekt local aufsetzten:** <br/>
 
 git init "initialize repo " <br/>
 git clone "repo" <br/>
