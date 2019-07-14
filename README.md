@@ -1,6 +1,23 @@
 # C-Plan
 Project Planning Tool
 
+
+Projekt local aufsetzten: 
+
+git init "initialize repo "
+git clone "repo"
+npm install "install packages"
+
+Default-gulp-Task for web development:
+
+gulp
+
+On Deploy:
+
+Rewrite ht.access to .htaccess before you place it on the webserver. This file have the rules for the webserver
+
+------------------->>>>>  Milestones  <<<<<---------------------
+
 **Aug 01.08.2019**
 -Projekt aufsetzen
 -Startseite vor und nach Login (HTML, SCSS) 
